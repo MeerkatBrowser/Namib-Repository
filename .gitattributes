@@ -1,0 +1,5 @@
+x86_64 filter=lfs diff=lfs merge=lfs -text
+CNAME filter=lfs diff=lfs merge=lfs -text
+namibpap filter=lfs diff=lfs merge=lfs -text
+namibtesting filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
